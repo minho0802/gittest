@@ -8,4 +8,8 @@ public class GitController {
 	public String test2() {
 		return "재미없다!";
 	}
+
+	public int test3() {
+		return 10;
+	}
 }
